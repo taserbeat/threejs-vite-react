@@ -1,0 +1,5 @@
+.scene {
+  background-image: url("../src/assets/images/space.jpg");
+  background-size: cover;
+  background-position: center;
+}
